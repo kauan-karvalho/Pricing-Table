@@ -18,7 +18,7 @@ Desafio exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 <br>
 
 <p align="center">
-  <img alt="Desafio RocketNews" src="./.github/preview.png" width="100%">
+  <img alt="Desafio Pricing Table" src="./.github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
